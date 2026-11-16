@@ -1,94 +1,76 @@
-# Daily-DSA-Challenge
-A daily DSA problem-solving challenge to improve logical thinking, problem-solving skills, and coding efficiency. Solving one Data Structures and Algorithms problem every day with solutions, explanations, and optimized approaches.
-# 🚀 DSA – 1 Problem a Day Challenge
+# 🚀 Daily DSA Challenge
 
-Welcome to my **Daily Data Structures and Algorithms (DSA) Challenge!**
+**1 problem a day. Consistent practice. Continuous improvement.**
 
-I have started this challenge with a simple goal: **Solve at least one DSA problem every day** to improve my logical thinking, problem-solving abilities, and coding skills.
-
-This repository documents my daily learning journey, solutions, and progress in mastering Data Structures and Algorithms.
+Welcome to my Data Structures and Algorithms (DSA) problem-solving journey. This repository tracks the problems I solve, the approaches I learn, and my progress as I strengthen my programming and problem-solving skills.
 
 ## 🎯 Goals
 
 - Solve at least one DSA problem every day.
-- Strengthen problem-solving and logical thinking.
-- Understand different approaches to solving problems.
-- Learn to write optimized and efficient code.
-- Maintain consistency and track daily progress.
+- Build strong logical and analytical thinking.
+- Learn multiple approaches and improve solution efficiency.
+- Understand time and space complexity.
+- Maintain a consistent, well-documented coding habit.
 
-## 🛠️ Technologies Used
+## 🧰 Languages and Tools
 
-- Programming Language: C / C++ (as applicable)
-- Data Structures and Algorithms
-- Git & GitHub
-
-## 📚 Topics Covered
-
-- Arrays
-- Strings
-- Searching Algorithms
-- Sorting Algorithms
-- Recursion
-- Linked Lists
-- Stacks and Queues
-- Hashing
-- Trees and Binary Trees
-- Binary Search Trees
-- Graphs
-- Greedy Algorithms
-- Dynamic Programming
-- Backtracking
+- **Languages:** C and C++
+- **Practice platform:** LeetCode
+- **Version control:** Git and GitHub
 
 ## 📅 Daily Progress
 
-| Day | Problem | Topic | Status |
-|---|---|---|---|
-| Day 01 | Coming Soon | Arrays | ⏳ |
-| Day 02 | Coming Soon | Strings | ⏳ |
-| Day 03 | Coming Soon | Searching | ⏳ |
+| Day | Problem | Topic | Language | Difficulty | Solution | Status |
+|---|---|---|---|---|---|---|
+| 01 | [Reverse Integer — LeetCode #7](https://leetcode.com/problems/reverse-integer/) | Mathematics | C | Medium | [View code](Math/Day01_ReverseInteger.c) · [Submission](https://leetcode.com/problems/reverse-integer/submissions/2197572321/) | ✅ Accepted |
 
-*I will update this table as I solve new problems.*
+*This table will be updated as I complete more problems.*
 
 ## 📂 Repository Structure
 
 ```text
-DSA-1-Problem-A-Day/
-│
-├── Arrays/
-├── Strings/
-├── Searching/
-├── Sorting/
-├── Recursion/
-├── LinkedList/
-├── Stack/
-├── Queue/
-├── Trees/
-├── Graphs/
-├── DynamicProgramming/
-│
+Daily-DSA-Challenge/
+├── Math/
+│   ├── Day01_ReverseInteger.c
+│   └── README.md
 └── README.md
 ```
 
-## 💡 My Approach
+Solutions are grouped by topic. Each problem is named by day and problem title, and its folder README records the problem link, approach, examples, and complexity analysis.
 
-For every problem, I aim to:
+## 📚 Topics to Practice
 
-1. Understand the problem statement.
-2. Identify the appropriate approach.
-3. Write the solution.
-4. Analyze time and space complexity.
-5. Optimize the solution whenever possible.
+- Mathematics and number manipulation
+- Arrays and strings
+- Searching and sorting
+- Recursion and backtracking
+- Linked lists
+- Stacks and queues
+- Hashing
+- Trees and binary search trees
+- Graphs
+- Greedy algorithms
+- Dynamic programming
 
-## 🔥 My Commitment
+## 🧠 Problem-Solving Workflow
 
-Consistency is more important than perfection.
+For each problem, I aim to:
 
-One problem a day, one step closer to becoming a better problem solver.
+1. Understand the requirements and edge cases.
+2. Develop a clear solution.
+3. Implement and test the code.
+4. Analyze time and auxiliary-space complexity.
+5. Improve the solution where possible.
+6. Commit the solution with a meaningful Git message.
 
-**Day by day. Problem by problem. Better than yesterday!**
+## 🔥 Commitment
+
+Consistency over perfection. Every problem is an opportunity to learn something new.
+
+**One problem at a time. Better than yesterday.**
 
 ---
 
-⭐ If you find this repository useful, feel free to star it!
+⭐ Thanks for visiting my DSA learning repository!
 
-#DSA #ProblemSolving #100DaysOfCode #CodingChallenge #GitHub
+`#DSA` `#ProblemSolving` `#LeetCode` `#CProgramming` `#Cpp` `#DailyCodingChallenge`
